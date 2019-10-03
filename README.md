@@ -60,7 +60,7 @@ chmod +x minio
 
 | Platform   | Architecture | URL                                                          |
 | ---------- | --------     | ------                                                       |
-| GNU/Linux  | ppc64le      | https://dl.min.io/server/minio/release/linux-ppc64le/minio |
+| GNU/Linux  | ppc64lee      | https://dl.min.io/server/minio/release/linux-ppc64le/minio |
 ```sh
 wget https://dl.min.io/server/minio/release/linux-ppc64le/minio
 chmod +x minio
