@@ -51,7 +51,7 @@ chmod 755 minio
 ### Binary Download
 | Platform   | Architecture | URL                                                        |
 | ---------- | --------     | ------                                                     |
-| GNU/Linux  | 64-bit Intel | https://dl.min.io/server/minio/release/linux-amd64/minio |
+| GNU/linux  | 64-bit Intel | https://dl.min.io/server/minio/release/linux-amd64/minio |
 ```sh
 wget https://dl.min.io/server/minio/release/linux-amd64/minio
 chmod +x minio
